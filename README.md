@@ -13,4 +13,3 @@ Identify customer segments using AZ Direct GmbH country-wide demographic data an
 
 # Licenses
 - Due to terms of agreement with AZ Direct GmbH, .csv files for this repository cannot be made available.
-- The 
